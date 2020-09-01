@@ -8,5 +8,10 @@
 <body>
     <p>Hello word!</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est at alias voluptatem eos a recusandae facere. Mollitia minima velit assumenda? Possimus repellat rem aspernatur qui hic asperiores veniam excepturi dolorum.</p>
+    <ul>
+        <li>Muhammad Anies Wahdie</li>
+        <li>Ahmad Fauzan</li>
+        <li>Muhammad Amien Ridlo</li>
+    </ul>
 </body>
 </html>
